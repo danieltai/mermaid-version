@@ -1,1 +1,5 @@
 # mermaid-version
+
+```mermaid
+info
+```
